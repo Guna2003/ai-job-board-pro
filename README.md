@@ -345,7 +345,7 @@ B.Tech – Computer Science & Engineering
 
 SRM University AP
 
-📧 Email: YOUR_EMAIL
+📧 Email: gunagundavarapu@gmail.com
 
 🐙 GitHub: https://github.com/Guna2003
 
