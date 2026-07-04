@@ -84,7 +84,7 @@ src/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-job-board-pro.git
+git clone https://github.com/Guna2003/ai-job-board-pro.git
 ```
 
 Go to the project folder
@@ -160,7 +160,7 @@ B.Tech CSE
 
 SRM University AP
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Guna2003
 
 ---
 
